@@ -1,0 +1,64 @@
+body{
+    background-color: #DADED4;
+}
+
+.first-section{
+    padding: 0 15px;
+    margin: 0;
+    text-align: center;
+    background-color: #9DC88D;
+    padding-bottom: 2%;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+    color: #39603D;
+    line-height: 1.5;
+}
+
+.head-text{
+    font-family: cursive;
+    font-weight: 400;
+    font-size: 2.5rem;
+    color: #39603D;
+}
+
+.second-section{
+    text-align: center;
+    padding: 4%;
+}
+
+.row{
+    margin-top: -16px;
+    margin-right: 0;
+}
+
+.die{
+    text-align: center;
+}
+
+.tag1{
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: #3C403D;
+}
+
+.roll-btn{
+    margin-top: 10rem;
+}
+
+.tag2{
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: #3C403D;
+}
+
+footer{
+    margin-top: -16px;
+    color: #202020;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.2rem;
+  
+}
